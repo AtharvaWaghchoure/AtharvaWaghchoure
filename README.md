@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently working on building MERN application.<br>I'm looking forward to collaborate on Full-stack applications.<br>I'm looking for help with developing robust application<br>I'm currently learning NextJs<br>Ask me about Automation and Backend stuffs<br>What is bee from america called?
+🔭I'm currently working on building MERN application.<br>👯I'm looking forward to collaborate on Full-stack applications.<br>🤝I'm looking for help with developing robust application<br>🌱I'm currently learning NextJs<br>💬Ask me about Automation and Backend stuffs<br>⚡What is bee from america called?
 
 ## 🌐 Socials:
 
