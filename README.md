@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 I'm currently working on building MERN application.<br>💡 I'm looking forward to collaborate on dApps.<br>🤝 I'm looking for help with developing robust application<br>🌱 I'm currently learning Rust<br>💬 Ask me about Web3 and Fullstack stuffs<br>⚡ What is bee from america called?
+🔭 I'm currently working on building decentralised application.<br>💡 I'm looking forward to collaborate on dApps.<br>🤝 I'm looking for help with developing robust application<br>🌱 I'm currently learning Rust<br>💬 Ask me about Web3 and Fullstack stuffs<br>⚡ What is bee from america called?
 
 ## 🌐 Socials:
 
