@@ -3,7 +3,7 @@
 🔭 I'm currently working on building decentralised application.<br>💡 I'm looking forward to collaborate on dApps.<br>🤝 I'm looking for help with developing robust application<br>🌱 I'm currently learning Rust<br>💬 Ask me about Web3 and Fullstack stuffs<br>
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-waghchoure-4900a9229/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@WafflesnotEaten)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharva-waghchoure) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@WafflesnotEaten)
 
 # 💻 Tech Stack:
 
