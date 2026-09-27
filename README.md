@@ -1,9 +1,7 @@
 # Atharva Waghchoure
 
-Blockchain and full-stack developer. Building decentralised applications and currently learning Rust.
+Curiosity have led me too many ends.
 
-Open to collaborating on dApps. Ask me about Web3 and full-stack development.
-
-## Contact
+## Email
 
 [atharval18wagh@gmail.com](mailto:atharval18wagh@gmail.com)
